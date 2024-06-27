@@ -1,8 +1,9 @@
-Certainly! Here's the README.md file for your Flask application (`app.py`), explaining its features, how to run it locally with Flask, and how to insert your own GitHub token for authenticated requests in the `github_search` function.
+# Flask Application README
 
 ---
 
-# Flask Application README
+NB: This code was developed and uses authentication requests. So in order to use this code you must insert a GitHub Token to use authenticated requests in the `github_search` function in the app.py file.
+You can find the "HOW TO" from #line 64
 
 ## Features
 
