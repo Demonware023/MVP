@@ -4,7 +4,8 @@
 
 Welcome to the GitHub Profiler Flask App! This application allows users to register, log in, view profiles, save profiles, and search GitHub user information using the GitHub API.
 
-About the Creator
+## About the Creator:
+
 This project was created by Awam Chimere Marvellous, who worked solo on this as their first full portfolio project and website. It has been an incredible learning opportunity, teaching valuable lessons through both failures and successes.
 
 ---
