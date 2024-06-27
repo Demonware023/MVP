@@ -105,5 +105,3 @@ This README provides a clear guide on setting up and running your Flask applicat
 ![home3](https://github.com/Demonware023/MVP/assets/134267322/3801e480-371e-4bac-b313-6df7466140fd)
 
 ![home](https://github.com/Demonware023/MVP/assets/134267322/81b4386d-6263-4fd5-94f7-bb0d13eef282)
-
-![home2](https://github.com/Demonware023/MVP/assets/134267322/631a9129-046b-4ee4-aaf5-c08d98129b32)
