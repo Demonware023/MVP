@@ -2,6 +2,13 @@
 
 ---
 
+Welcome to the GitHub Profiler Flask App! This application allows users to register, log in, view profiles, save profiles, and search GitHub user information using the GitHub API.
+
+About the Creator
+This project was created by Awam Chimere Marvellous, who worked solo on this as their first full portfolio project and website. It has been an incredible learning opportunity, teaching valuable lessons through both failures and successes.
+
+---
+
 NB: This code was developed and uses authentication requests. So in order to use this code you must insert a GitHub Token to use authenticated requests in the `github_search` function in the app.py file.
 You can find the "HOW TO" from #line 64
 
@@ -90,3 +97,4 @@ To use authenticated requests in the `github_search` function, follow these step
 ---
 
 This README provides a clear guide on setting up and running your Flask application (`app.py`) locally, including managing environment variables, initializing the SQLite database, and integrating your GitHub token for authenticated requests. Adjust the instructions and paths as per your specific project structure and deployment environment.
+
