@@ -99,3 +99,4 @@ To use authenticated requests in the `github_search` function, follow these step
 
 This README provides a clear guide on setting up and running your Flask application (`app.py`) locally, including managing environment variables, initializing the SQLite database, and integrating your GitHub token for authenticated requests. Adjust the instructions and paths as per your specific project structure and deployment environment.
 
+![home](https://github.com/Demonware023/MVP/assets/134267322/81b4386d-6263-4fd5-94f7-bb0d13eef282)
