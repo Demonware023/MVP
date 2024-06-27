@@ -83,7 +83,8 @@ To use authenticated requests in the `github_search` function, follow these step
 2. **Insert Token in `app.py`:**
    - Open `app.py` in your code editor.
    - Locate the `github_search` function.
-   - Replace `'token ghp_yuBfOFMBDPKpimeJ**************'` with your GitHub token in the `headers` dictionary.
+   - Replace 'your_github_token_here' with `'ghp_yuBfOFMBDPKpimeJ**************'` with your GitHub token in the `headers` dictionary.
+   - Example: 'token ghp_yuBfOFMBDPKpimeJ**************'
 
    Example:
    ```python
