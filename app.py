@@ -2,6 +2,7 @@
 
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session
 import sqlite3
+import os
 import requests
 
 app = Flask(__name__)
@@ -246,4 +247,4 @@ def get_user_from_db(username):
         return None
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
