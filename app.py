@@ -3,7 +3,6 @@
 
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session
 import sqlite3
-import os
 import requests
 
 app = Flask(__name__)
@@ -186,7 +185,7 @@ def github_search():
     data = request.json
     username = data.get('github_username')
     headers = {
-        'Authorization': 'token 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' # Insert your token here to authenicate every request.
+        'Authorization': 'token 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' # Insert your token here to authenicate every request.
     }
     user_url = f'https://api.github.com/users/{username}'
     repos_url = f'https://api.github.com/users/{username}/repos'
