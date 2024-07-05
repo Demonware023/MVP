@@ -1,6 +1,5 @@
 # This is the flask implementation/backend code for Github Profiler
 
-
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session
 import sqlite3
 import requests
