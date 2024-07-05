@@ -185,7 +185,11 @@ def github_search():
     data = request.json
     username = data.get('github_username')
     headers = {
+<<<<<<< HEAD
         'Authorization': 'token ghp_b************************' # Insert your token here to authenicate every request.
+=======
+        'Authorization': 'token ghp_b****************************' # Insert your token here to authenicate every request.
+>>>>>>> 4d0c720e92b8672c44086b1d2ecb50af7efe4aa8
     }
     user_url = f'https://api.github.com/users/{username}'
     repos_url = f'https://api.github.com/users/{username}/repos'
